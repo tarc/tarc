@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Tarcísio. I'm a software engineer working with market data at a major financial market company here in Brazil.
+
 <!--
 **tarc/tarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
