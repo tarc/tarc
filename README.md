@@ -1,6 +1,12 @@
 ### Hi there 👋
 
-I'm Tarcísio. I'm a software engineer working with market data at a major financial market company here in Brazil.
+I'm Tarcísio. I'm talking from Osasco, São Paulo metropolitan area, Brazil.
+
+I'm a software engineer and I work mostly with C++, and in the .NET platform.
+
+With some luck you may find something of use in the mess of repos I keep here. I guess the pinned ones are the most worth checking. But anyway, be my guest and take a look arround ;)
+
+- 📫 How to reach me: tarcisio.genaro@gmail.com
 
 <!--
 **tarc/tarc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
