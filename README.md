@@ -4,7 +4,7 @@ I'm Tarcísio. I'm talking from Osasco, São Paulo metropolitan area, Brazil.
 
 I'm a software engineer, mainly working with C++ and the .NET platform.
 
-I think there's nothing really worth checking here -- I mainly use these repos to record ideas and vaporware, but anyway, be my guest and look around. I pinned the repos below because they were starred/forked by someone, so I guess they are the most worthy of checking out...
+I think there's nothing really worth checking here -- I mainly use these repos to record ideas and vaporware, but anyway, be my guest and look around. I pinned the repos below mainly because they were starred/forked by someone...
 
 - 📫 How to reach me: tarcisio.genaro@gmail.com
 
